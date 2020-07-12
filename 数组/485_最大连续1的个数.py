@@ -30,6 +30,6 @@ class Solution:
 
         return max_length
 
-a = Solution()
-b =[1,1,0,1,1,1,1,0,0,0,0,0,1,0,1,0]
-print(a.findMaxConsecutiveOnes(b))
+# a = Solution()
+# b =[1,1,0,1,1,1,1,0,0,0,0,0,1,0,1,0]
+# print(a.findMaxConsecutiveOnes(b))
